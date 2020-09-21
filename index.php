@@ -11,8 +11,9 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            echo"Hola Profe";
-            echo"mob - commit inicial";# inicales del nombre
+            echo "Hola Profe";
+            echo "mob - commit inicial";# inicales del nombre
+            echo "mama mia";
         ?>
     </body>
 </html>
