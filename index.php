@@ -14,7 +14,7 @@ and open the template in the editor.
             echo "Hola Profe";
             echo "mob - commit inicial";# inicales del nombre
             echo "mama mia";
-            echo "segundo dia bro";
+            echo "segundo dia bro 2";
         ?>
     </body>
 </html>
